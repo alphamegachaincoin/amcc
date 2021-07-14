@@ -1,5 +1,5 @@
-# amcc - TJFC84p6DJsTFpRGzQyUrDVtxf8Nn5ELiZ
-creator - TMNK258aXCyj2YvwJjj5pvpi6aeQZYNvV2</br>
+# AMCC - See below the Official Real Contract Address
+contract address - TJFC84p6DJsTFpRGzQyUrDVtxf8Nn5ELiZ
 
 <b>This is The Official AMCC contract address and repo.</b>
 <b>Other than this, all other AMCC coins are fake.</b>
